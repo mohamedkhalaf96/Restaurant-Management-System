@@ -3,7 +3,10 @@ Desktop Application helps in managing the restaurants, it has many functions : L
 <hr></hr>
 <h3>Login Form:</h3>
 <img src="https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture1.png">
+<h3>Admin Panel:</h3>
+<img src="https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture14.png">
 <h3>Cashier Form:</h3>
 <img src="https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture5.png">
-<h3>Admin Panel:</h3>
-<img src="https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture7.png">
+<h3>Table State:</h3>
+<img src="https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture3.png" style="display:inline-block;width:50%">
+<img src="https://github.com/mohamedkhalaf96/Restaurant-Management-System/blob/master/pictures/Picture4.png" style="display:inline-block;width:50%">
